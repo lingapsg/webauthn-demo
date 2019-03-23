@@ -1,1 +1,1 @@
-mvn appengine:devserver
+web: mvn appengine:devserver
